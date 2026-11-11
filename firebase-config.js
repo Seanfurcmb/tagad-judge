@@ -11,4 +11,12 @@
      appId: "..."
    };
 */
-window.FIREBASE_CONFIG = null;
+window.FIREBASE_CONFIG = {
+  apiKey: "AIzaSyDj9X-fRn9410PTPLtd8Pk4ueNUqYj0eTA",
+  authDomain: "realtime-judge-clipboard.firebaseapp.com",
+  databaseURL: "https://realtime-judge-clipboard-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "realtime-judge-clipboard",
+  storageBucket: "realtime-judge-clipboard.firebasestorage.app",
+  messagingSenderId: "751162623429",
+  appId: "1:751162623429:web:79ce54cc8ceda1adcb77ac"
+};
